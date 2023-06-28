@@ -70,7 +70,7 @@
 
 ## 🚀 Live Demo <a name="live-demo"></a>
 
-- [Live Demo link](https://fatima-najafi.github.io/Portfolio/)
+- [Live Demo link](https://fatima-najafi.github.io/capstone-project-module1/)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 ## 📹 Walkthrough  <a name="Walkthrough"></a>
