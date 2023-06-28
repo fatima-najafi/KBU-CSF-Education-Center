@@ -223,6 +223,52 @@ header {
   padding: 0 15px;
 }
 
+.img-kbu {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 1em;
+  justify-content: center;
+  margin-top: 1.5em;
+}
+
+.kbu-2020 {
+  background-image:
+    linear-gradient(
+      to bottom,
+      rgba(236, 83, 66, 0.571),
+      rgba(236, 82, 66, 0.5)
+    ),
+    url(assets/cs1.jpg);
+}
+
+.year {
+  font-weight: 700;
+  font-size: 2em;
+}
+
+.passed {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  padding: 1.5em;
+  width: 350px;
+  height: 200px;
+  background-repeat: no-repeat;
+  background-size: cover;
+  color: white;
+}
+
+.kbu-2023 {
+  background-image:
+    linear-gradient(
+      to bottom,
+      rgba(236, 83, 66, 0.571),
+      rgba(236, 82, 66, 0.5)
+    ),
+    url(assets/download.jpg);
+}
+
 /* finish creative */
 
 /* start partner */

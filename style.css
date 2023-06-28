@@ -522,7 +522,7 @@ header {
   }
 
   .section-footer {
-    background-color: #5e5e5e00;
+    background-color: var(--gray-color);
     color: white;
     width: 100%;
     display: flex;
@@ -548,7 +548,7 @@ header {
     font-weight: normal;
     font-size: 11px;
     text-align: center;
-    font-family: Poppins, sans-serif;
+    font-family: 'lato', sans-serif;
     margin-left: 50px;
   }
 }
