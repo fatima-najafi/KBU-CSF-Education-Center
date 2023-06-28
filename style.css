@@ -313,7 +313,7 @@ header {
 
   .bottom-nav {
     background-color: white;
-    height: 80px;
+    height: 84px;
     display: flex;
     flex-direction: row;
     justify-content: space-between;
