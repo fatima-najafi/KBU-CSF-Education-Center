@@ -464,6 +464,7 @@ header {
     align-items: center;
     justify-content: center;
     width: 100%;
+    gap: 60px;
   }
 
   .partner-title {
@@ -485,7 +486,7 @@ header {
     display: flex;
     flex-direction: row;
     margin-left: 70px;
-    gap: 45px;
+    gap: 90px;
     margin-top: 30px;
   }
 
@@ -500,7 +501,7 @@ header {
     margin-left: 20px;
     margin-right: 20px;
     min-width: 100px;
-    gap: 45px;
+    gap: 90px;
     justify-content: center;
     align-items: center;
     padding: 30px;
@@ -547,7 +548,7 @@ header {
     font-weight: normal;
     font-size: 11px;
     text-align: center;
-    font-family: 'lato', sans-serif;
+    font-family: "lato", sans-serif;
     margin-left: 50px;
   }
 }
