@@ -75,7 +75,7 @@
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 ## 📹 Walkthrough  <a name="Walkthrough"></a>
 
-- [loom link](https://www.loom.com/share/00e2f5e8b4b043aeb1fe23e4f114a692?sid=8a1e68de-363c-4c4a-a79a-fc2d911cb4a7)
+- [loom link]()
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
